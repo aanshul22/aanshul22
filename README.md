@@ -1,4 +1,4 @@
-![Hey there, I'm Anshul. I'm a software developer, I'm a Machine Learning enthusiast. Check out my work](https://github.com/aanshul22/aanshul22/raw/master/Github Intro.gif)
+![Hey there, I'm Anshul. I'm a software developer, I'm a Machine Learning enthusiast. Check out my work](https://github.com/aanshul22/aanshul22/raw/master/GithubIntro.gif)
 
 <!-- ### Hi, I'm Anshul 👋👨‍💻
 
